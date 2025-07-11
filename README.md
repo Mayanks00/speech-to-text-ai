@@ -1,11 +1,11 @@
-# 🎙️ Mayank's AI Speech-to-Text App
+🎙️ Mayank's AI Speech-to-Text App
 
 A modern, multilingual AI-powered voice-to-text system built using **Python, Streamlit, and OpenAI Whisper**.  
 Users can upload speech audio and instantly get highly accurate transcriptions — in any language.
 
 ---
 
-## ✨ Features
+✨ Features
 
 ✅ Upload audio files (`.mp3`, `.wav`, `.m4a`, `.webm`)  
 🌍 Auto language detection or manual language selection  
@@ -17,7 +17,7 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Tool          | Purpose                          |
 |---------------|----------------------------------|
@@ -29,7 +29,7 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 
 ---
 
-## 🧪 Project Structure
+🧪 Project Structure
 
 
 📁 speech-to-text-ai
@@ -43,25 +43,33 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 
 ---
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally
 
 > Prerequisites: Python 3.9+ and `pip` installed
 
-### 🔹 1. Clone the Repository-
+🔹 1. Clone the Repository-
 
 git clone https://github.com/mayankpratapsingh/speech-to-text-ai.git
 cd speech-to-text-ai
 
-   🔹 2. Install Required Packages-
+🔹 2. Install Required Packages-
 
 pip install -r requirements.txt 
 
-   🔹 3. Launch the App-
+🔹 3. Launch the App-
 
 streamlit run app.py
 
 
-The app will open in your browser at http://localhost:8501
+The app will open in your browser at
+
+http://localhost:8501
+
+🌐 Try the Live App-
+
+Hosted on Streamlit Cloud — no setup needed!
+
+👉 [https://speech-to-text-ai-ahg9u7gwpkuuurmtaukxiq.streamlit.app](https://speech-to-text-ai-ahg9u7gwpkuuurmtaukxiq.streamlit.app)
 
 
 📗 Phase 1: Colab-Based Whisper Demo- 
