@@ -49,7 +49,7 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 
 🔹 1. Clone the Repository-
 
-git clone https://github.com/mayankpratapsingh/speech-to-text-ai.git
+git clone https://github.com/Mayanks00/speech-to-text-ai
 cd speech-to-text-ai
 
 🔹 2. Install Required Packages-
