@@ -14,6 +14,7 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 🎨 Custom branding and clean UI design  
 📁 Google Colab notebook included (Phase 1)  
 🧠 Powered by OpenAI’s Whisper model
+💻 Use directly in browser or on Android 📱
 
 ---
 
@@ -26,6 +27,7 @@ Users can upload speech audio and instantly get highly accurate transcriptions �
 | Whisper       | Speech-to-text AI model          |
 | FFmpeg        | Audio conversion and handling    |
 | Google Colab  | Prototyping and model testing    |
+| Android       | building android app using kotlin|
 
 ---
 
@@ -65,6 +67,12 @@ The app will open in your browser at
 
 http://localhost:8501
 
+📲 Android App is Now Available!
+
+📦 **Download APK:**  
+
+[Click here to install the Android version](https://drive.google.com/file/d/1NzeYVuIbq7bAnXzeRigo8q3dqhr3lMgs/view?usp=drive_link) ⚠️ Note: You may need to enable "Install from unknown sources" in your phone settings.
+
 🌐 Try the Live App-
 
 Hosted on Streamlit Cloud — no setup needed!
@@ -95,11 +103,14 @@ This app is easily deployable using:
 
 📱 Future Plan-
 
-🔄 TO Add direct microphone recording (mobile-friendly)
-
-📱 TO Create an Android app using Flutter or WebView
-
-🗂️ TO  Add backend support with MongoDB for saving history
+🎙️ Real-time microphone transcription (coming soon)
+🌐 In-app browser fallback handling
+🗣️ Multi-language accuracy tuning
+💡 Cleaner UI + offline capabilities
+🗂️ TO Add backend support with MongoDB for saving history
+📱 **Publishing to Google Play Store**
+☁️ Cloud sync or export-to-Google Drive
+📊 Analytics for transcription usage
 
 
 📃 License-
