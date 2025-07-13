@@ -57,12 +57,12 @@ Users can upload audio and instantly get accurate transcriptions — in **Hindi,
 
 
 📁 speech-to-text-ai
-├── app.py                 # Streamlit web app
-├── audio.ipynb            # Google Colab notebook (Phase 1)
-├── requirements.txt       # Required Python packages
-├── README.md              # Project overview
+├── app.py                 
+├── audio.ipynb            
+├── requirements.txt       
+├── README.md              
 └── .streamlit/
-    └── config.toml        # UI config for Streamlit
+    └── config.toml        
 
   
 🚀 Run Locally:
@@ -94,13 +94,9 @@ App will open at:
 *Download transcript
 
 📎 File: audio.ipynb
-
 📱 Android App (Phase 2):
-
 🔗 Uses WebView to display web app
-
 📂 File picker supported
-
 ⚙️ Lightweight, works offline after loading
 
 ✅ Compatible With:
@@ -134,7 +130,7 @@ App will open at:
 📃 License:
 
 MIT License — Free to use, modify, and share with credit.
-© 2025 Mayank Pratap Singh
+    © 2025 Mayank Pratap Singh
 
 👨‍💻 Developed by:
 Mayank Pratap Singh.
