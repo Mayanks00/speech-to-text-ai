@@ -56,13 +56,30 @@ Users can upload audio and instantly get accurate transcriptions — in **Hindi,
 📦 Project Structure:
 
 
-📁 speech-to-text-ai
-├── app.py                 
-├── audio.ipynb            
-├── requirements.txt       
-├── README.md              
-└── .streamlit/
-    └── config.toml        
+    📁 speech-to-text-ai/
+├── .devcontainer/                # Dev environment config 
+
+├── .streamlit/                 
+│   └── config.toml               # Streamlit UI config
+├── app.py                        # Main Streamlit web app file
+
+├── audio.ipynb                   # Google Colab notebook (Whisper demo)
+
+├── requirements.txt              # Python packages list
+
+├── packages.txt                  # FFmpeg & system packages
+
+├── README.md                     # Project documentation
+
+├── LICENSE                       # MIT license
+
+├── APP LOGO.png                  # App logo image
+
+├── WEB APP PAGE.png              # Screenshot of deployed web UI
+
+├── speech text AI QR.png         # QR code to download APK
+
+├── video recording of speech to text ai app.mp4   # Demo video
 
   
 🚀 Run Locally:
