@@ -55,7 +55,7 @@ Users can upload audio and instantly get accurate transcriptions — in **Hindi,
 
 📦 Project Structure:
 
-shell
+
 📁 speech-to-text-ai
 ├── app.py                 # Streamlit web app
 ├── audio.ipynb            # Google Colab notebook (Phase 1)
@@ -86,8 +86,11 @@ App will open at:
 📗 Phase 1: Google Colab Whisper Notebook:
 
 *Install Whisper
+
 *Upload audio files
+
 *Transcribe into any language
+
 *Download transcript
 
 📎 File: audio.ipynb
@@ -103,19 +106,29 @@ App will open at:
 ✅ Compatible With:
 
 *Android 10 to Android 14
+
 *All modern devices with file access permissions
+
 *Download via QR Code or Google Drive
+
 *Enable “Install from unknown sources” before installing
 
 📅 Future Plans:
 
 🎙️ Real-time mic transcription
+
 📁 Upload from recordings directly
+
 🧠 NLP-based text cleaning and formatting
+
 🌐 Offline speech recognition
+
 📤 Save transcript to Google Drive
+
 📊 Analytics on transcription time
+
 ☁️ Cloud sync and speech storage
+
 📱 Publish to Google Play Store
 
 📃 License:
